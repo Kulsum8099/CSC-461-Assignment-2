@@ -29,13 +29,13 @@ The program is written in **C++** and covers the following topics:
     ```
 3. Run the executable:
 On Windows:
- ```bash
-  data_types_demo.exe
- ```
+   ```bash
+   data_types_demo.exe
+   ```
 On Linux/macOS:
- ```bash
+   ```bash
   ./data_types_demo
- ```
+   ```
 4. Input the required values when prompted.
 
 ---
