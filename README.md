@@ -42,7 +42,7 @@ On Linux/macOS:
 ---
 
 ## Sample Output
-###1. Primitive Data Types
+### 1. Primitive Data Types
  ```bash
 1. Primitive Data Types:
 Integer: 10
