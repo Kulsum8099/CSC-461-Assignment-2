@@ -51,7 +51,7 @@ Boolean: 1
 Character: A
  ```
 
-2. Character String Types
+### 2. Character String Types
  ```bash
 2. Character String Types:
 Concatenated String: Hello World
@@ -60,14 +60,14 @@ Substring: Hello
 Comparison (str1 == str2): 0
  ```
 
-3. Enumeration Types
+### 3. Enumeration Types
  ```bash
 3. Enumeration Types:
 Enum Example: Today is 2 (0 = MON, 6 = SUN)
  ```
 _Note:_ The value 2 corresponds to WED in the enumeration.
 
-4. Array Types
+### 4. Array Types
 
 Input:
  ```bash
@@ -80,13 +80,13 @@ Static Array: 1 2 3 4 5
 Dynamic Array: 0 10 20
  ```
 
-5. Record Types
+### 5. Record Types
  ```bash
 5. Record Types:
 Employee Record: Alice, 30, 75000.5
  ```
 
-6. Union Types
+### 6. Union Types
  ```bash
 6. Union Types:
 Union as Integer: 42
@@ -95,7 +95,7 @@ Union as Character: X
  ```
 _Note:_ A union can only hold one value at a time, so the previous values are overwritten.
 
-7. Pointer Types
+### 7. Pointer Types
  ```bash
 7. Pointer Types:
 Pointer Example: 
