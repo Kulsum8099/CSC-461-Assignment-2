@@ -28,6 +28,7 @@ The program is written in **C++** and covers the following topics:
    g++ -o data_types_demo data_types_demo.cpp
     ```
 3. Run the executable:
+   
 On Windows:
    ```bash
    data_types_demo.exe
