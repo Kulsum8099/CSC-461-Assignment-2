@@ -34,7 +34,7 @@ On Windows:
    ```
 On Linux/macOS:
    ```bash
-  ./data_types_demo
+   ./data_types_demo
    ```
 4. Input the required values when prompted.
 
